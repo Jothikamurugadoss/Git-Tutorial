@@ -1,2 +1,6 @@
 Selenium
 Tester
+
+Manual
+Automation
+
